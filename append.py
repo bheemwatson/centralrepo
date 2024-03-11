@@ -8,6 +8,3 @@ for b in range(5):
     name = input('enter a bastman name :')
     bastman.append(name)
 print(bastman)
-
-
-this is the append programm
