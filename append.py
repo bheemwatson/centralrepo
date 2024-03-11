@@ -1,5 +1,5 @@
 # adding single item in list
-a = [11,20,30,40]
+a = [13,20,30,40]
 a.append(50)
 print(a)
 # adding multiple item in list
@@ -8,3 +8,6 @@ for b in range(5):
     name = input('enter a bastman name :')
     bastman.append(name)
 print(bastman)
+
+
+this is the append programm
