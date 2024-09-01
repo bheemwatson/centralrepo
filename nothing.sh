@@ -11,3 +11,7 @@ touch 1.hrml 2.html 3. html 4.html
 #create file with .txt
 
 touch 1.txt 2.txt 3.txt 4.txt
+
+#create file woth .rebase
+
+touch 1.rebase 2.rebase 3.rebase
